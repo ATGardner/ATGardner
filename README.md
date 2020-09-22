@@ -14,8 +14,6 @@
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=ATGardner.ATGardner)  
-
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I hike long-distance trails
 
