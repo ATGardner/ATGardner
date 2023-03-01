@@ -8,7 +8,6 @@
 <br/>
 <br/>
 
-- 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I hike long-distance trails
 
 ### - Languages and Tools...
